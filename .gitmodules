@@ -1,0 +1,12 @@
+[submodule "Kryonics/vendor/spdlog"]
+	path = Kryonics/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "Kryonics/vendor/GLFW"]
+	path = Kryonics/vendor/GLFW
+	url = https://github.com/TheCherno/GLFW
+[submodule "Kryonics/vendor/ImGUI"]
+	path = Kryonics/vendor/ImGUI
+	url = https://github.com/TheCherno/imgui
+[submodule "Kryonics/vendor/glm"]
+	path = Kryonics/vendor/glm
+	url = https://github.com/g-truc/glm

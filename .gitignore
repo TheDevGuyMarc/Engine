@@ -1,0 +1,16 @@
+# Binaries
+**/bin/
+!vendor/premake/bin/
+bin-int/
+
+# Kryonics files
+**/vendor/GLFW/out/
+*.log
+
+# Visual Studio files and folders
+.vs
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+.idea
